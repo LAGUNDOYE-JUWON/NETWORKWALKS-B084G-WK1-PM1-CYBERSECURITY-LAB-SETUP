@@ -311,8 +311,8 @@ This laboratory is intended strictly for education purposes only.
 **lagundoye juwon**\
 Cybersecurity Professional B084G
 
-LinkedIn: [https://www.linkedin.com/in/lagundoye-juwon/](https://www.linkedin.com/in/lagundoye-juwon)
-
+LinkedIn: [https://www.linkedin.com/in/lagundoye-juwon/](
+https://www.linkedin.com/in/lagundoye-juwon-4890b6244)
 ---
 
 ## 📌 Project Information
